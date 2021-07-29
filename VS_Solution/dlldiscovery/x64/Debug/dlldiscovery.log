@@ -1,0 +1,8 @@
+﻿  getnotfound.cpp
+  main.cpp
+C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\dlldiscovery\main.cpp(26,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\dlldiscovery\main.cpp(26,53): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\dlldiscovery\main.cpp(22,31): warning C4101: 'VerboseBuff': unreferenced local variable
+  recursivesearch.cpp
+  Generating Code...
+  dlldiscovery.vcxproj -> C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\x64\Debug\dlldiscovery.exe

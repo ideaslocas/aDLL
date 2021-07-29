@@ -1,0 +1,9 @@
+﻿  getnotfound.cpp
+  main.cpp
+  Generating Code...
+getnotfound.obj : error LNK2019: unresolved external symbol __imp__PathFileExistsW@4 referenced in function "void __cdecl GetNotFound(struct DLLINFO *,struct SCHPATHS,int,wchar_t *)" (?GetNotFound@@YAXPAUDLLINFO@@USCHPATHS@@HPA_W@Z)
+argparser.obj : error LNK2001: unresolved external symbol __imp__PathFileExistsW@4
+genreport.obj : error LNK2001: unresolved external symbol __imp__PathFileExistsW@4
+testinformer.obj : error LNK2001: unresolved external symbol __imp__PathFileExistsW@4
+initstructures.obj : error LNK2019: unresolved external symbol __imp__PathIsDirectoryW@4 referenced in function "void __cdecl InitSchPaths(struct SCHPATHS *,wchar_t const *)" (?InitSchPaths@@YAXPAUSCHPATHS@@PB_W@Z)
+C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\Debug\dlldiscovery.exe : fatal error LNK1120: 2 unresolved externals
