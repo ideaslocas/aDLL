@@ -1,3 +1,0 @@
-﻿  hook.cpp
-C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\Hook\hook.cpp(171,10): warning C4101: 'hModule': unreferenced local variable
-  Hook.vcxproj -> C:\Users\Jakita Wagner\OneDrive - Telefonica\DLLHAutoDiscovery\x64\Debug\Hook.dll
