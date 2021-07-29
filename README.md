@@ -16,11 +16,10 @@ _If the system is old and/or Visual Studio is not installed, it is possible that
 ### Compilation 
 
 _To modify/recompile the tool it is recommended the use of Visual Studio 2015 or later._
-_The Visual Studio solution consists of three projects: aDLL, Hook e Informer.
-    -aDLL: must be compiled as an executable. If linking errors occur, it will be necessary to add the shlwapi.lib library using the Visual Studio linker as an additional dependency.
-    -Hook: must be compiled as a DLL with the same architecture as the executable to be analyzed. The resulting Hook file must be renamed to hook32.dll or hook64.dll as appropriate. If you wish to analyze executables of both architectures it will be necessary to have both DLLs in the same directory as aDLL.exe. 
-    -Informer: same as Hook. Must be compiled as a DLL and renamed to informer32.dll or informer64.dll.
-_
+_The Visual Studio solution consists of three projects: aDLL, Hook e Informer._
+_    -aDLL: must be compiled as an executable. If linking errors occur, it will be necessary to add the shlwapi.lib library using the Visual Studio linker as an additional dependency._
+_    -Hook: must be compiled as a DLL with the same architecture as the executable to be analyzed. The resulting Hook file must be renamed to hook32.dll or hook64.dll as appropriate. If you wish to analyze executables of both architectures it will be necessary to have both DLLs in the same directory as aDLL.exe._
+_    -Informer: same as Hook. Must be compiled as a DLL and renamed to informer32.dll or informer64.dll._
 
 ## Usage
 
