@@ -51,7 +51,9 @@ _Hook DLL is based on the idea of ctxis's DLLHSC: https://github.com/ctxis/DLLHS
 
 ## Contact
 
-_ideaslocas@telefonica.com_# aDLL
+_ideaslocas@telefonica.com_
+
+# aDLL
 
 you can find more information about licenses at: licenses.txt
 
