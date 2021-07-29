@@ -22,7 +22,7 @@ _The Visual Studio solution consists of three projects: aDLL, Hook e Informer.
     -Informer: same as Hook. Must be compiled as a DLL and renamed to informer32.dll or informer64.dll.
 _
 
-## Usage ⚙️
+## Usage
 
 _The tool has a -h option to print a brief description of the available options on the screen.._
 ```
